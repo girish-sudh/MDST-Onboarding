@@ -4,7 +4,7 @@
 
 ### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
 
-If there are any issues or areas of improvement you would like us to know, please create a new entry in "Issues" 
+If there are any issues or areas of improvement you would like us to know, please create da new entry in "Issues" 
 
 ## Setup
 
